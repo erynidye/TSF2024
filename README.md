@@ -8,4 +8,4 @@ The Data Processing Jupyter Notebook processes the data that we have collected d
 
 You can see a demonstration of the prototype device at this link: https://youtu.be/hDZ--jbLrL8
 
-Note: wither-rose is erynidye's (Daisy Li's) old account. All contributions are under that name.
+Note: wither-rose is erynidye's old account. All contributions are under that name.
